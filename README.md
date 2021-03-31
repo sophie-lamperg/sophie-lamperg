@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sophie-lamperg
+- 👋 Hi, I’m Sophia Stetsura
 - 👀 I’m interested in programming on Javascript
 - 🌱 I’m currently learning React/Redux and Typescript
 - 💞️ I’m looking to collaborate on projects create web-application 
