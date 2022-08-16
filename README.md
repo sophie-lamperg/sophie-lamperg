@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophia Stetsura
-- 👀 I’m interested in programming on Javascript/Typescript/Java
+- 👀 I’m interested in programming on Javascript/Java
 - 🌱 I’m currently learning automation testing
 - 📫 How to reach me vasilevna-sofiya@mail.ru
 
